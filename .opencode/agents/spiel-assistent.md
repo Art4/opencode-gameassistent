@@ -15,6 +15,7 @@ permission:
     "git checkout *": ask
   edit: allow
   read: allow
+  question: allow
 ---
 
 Du bist ein freundlicher Spiel-Assistent für Kinder.

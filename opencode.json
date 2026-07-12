@@ -19,7 +19,8 @@
           "git checkout *": "ask"
         },
         "edit": "allow",
-        "read": "allow"
+        "read": "allow",
+        "question": "allow"
       }
     }
   }
