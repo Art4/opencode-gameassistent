@@ -19,6 +19,12 @@ Wenn das Kind sein Spiel verändert hat, biete an den Spielstand zu speichern.
 - "Super! Ich speicher das jetzt ab."
 - "Fertig! Dein Spiel ist jetzt sicher gespeichert."
 
+## Planung speichern
+Nach der Planung (wenn Ideen und Aufgaben feststehen) und vor dem Bauen:
+1. Frage: "Soll ich den Plan erst speichern, damit wir später alles wegwerfen und neu anfangen können?"
+2. Wenn Ja: `git add .` → `git commit -m "Planung: [Spielname]"`
+3. Erkläre: "Jetzt haben wir den Plan festgehalten. Wenn dir das Spiel nicht gefällt, können wir immer hierzu zurückkommen."
+
 ## Zurücksetzen
 - Biete an, zum letzten Stand zurück zu gehen
 - Warne vor Datenverlust: "Wenn wir zurückgehen, gehen die letzten Änderungen verloren!"

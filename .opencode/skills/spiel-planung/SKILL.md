@@ -44,3 +44,4 @@ Struktur:
 - Erstelle immer zuerst das Userprofil wenn es nicht existiert
 - Halte den aktuellen Spielstand aktuell
 - Erstelle konkrete, kleine Aufgaben die ein Kind verstehen kann
+- Nach der Planung anbieten den Plan zu speichern (vor dem Bauen)
